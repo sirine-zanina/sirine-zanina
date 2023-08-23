@@ -8,7 +8,7 @@
 	<img src="https://komarev.com/ghpvc/?username=reverie-syr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="reverie-syr" height=25px, width=150px/> 
 </p>
 
-**Computer Science Student and Digital Craftswomen**
+##**Computer Science Student and Digital Craftswomen**
 
 I'm a computer science student and an aspiring full-stack developer. I'm always open to learning new concepts and technologies that can be used to develop new solutions for our modern day problems.
 I'm currently open for new job opportunities.
