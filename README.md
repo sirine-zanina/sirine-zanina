@@ -34,6 +34,7 @@ I'm currently open for new job opportunities.
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+---
 ### 📊 Stats
 
 ![Syrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=reverie-syr&show_icons=true&theme=tokyonight)
