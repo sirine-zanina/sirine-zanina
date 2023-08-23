@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=JoJoDevAdventure&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="reverie-syr" height=25px, width=150px/> 
+	<img src="https://komarev.com/ghpvc/?username=reverie-syr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="reverie-syr" height=25px, width=150px/> 
 </p>
 
 **'Computer Science Student and Digital Craftswomen'**
