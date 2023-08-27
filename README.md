@@ -7,7 +7,7 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=reverie-syr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="reverie-syr" height=25px, width=150px/> 
 </p>
-<h2><b>Computer Science Student and Digital Craftswomen</b></h2> 
+<h2><b>Computer Science Student and a Web Development Enthusiast. </b></h2> 
 
 I'm a computer science student and an aspiring full-stack developer. I'm always open to learning new concepts and technologies that can be used to develop new solutions for our modern day problems.
 I'm currently open for new job opportunities.
@@ -36,11 +36,16 @@ I'm currently open for new job opportunities.
 <img align="left" alt="Symfony" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
 
+
 <br />
 
 ---
 ### 📊 Stats
 
 ![Syrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=reverie-syr&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=reverie-syr&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reverie-syr&count_private=true&theme=radical" alt="saaya-code" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverie-syr&count_private=true&theme=radical" alt="saaya-code" />
+
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=reverie-syr&theme=tokyonight&border_radius=4.5) -->
