@@ -30,10 +30,8 @@ I'm currently open for new job opportunities.
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Symfony" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
-<img align="left" alt="Symfony" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
 
 
@@ -43,9 +41,8 @@ I'm currently open for new job opportunities.
 ### 📊 Stats
 
 ![Syrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=reverie-syr&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api?username=reverie-syr&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reverie-syr&count_private=true&theme=radical" alt="saaya-code" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverie-syr&count_private=true&theme=radical" alt="saaya-code" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reverie-syr&count_private=true&theme=radical" alt="Sirine's GitHub Streak Stats" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverie-syr&count_private=true&theme=radical" alt="most langugages used." />
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=reverie-syr&theme=tokyonight&border_radius=4.5) -->
