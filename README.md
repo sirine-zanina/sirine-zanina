@@ -42,9 +42,9 @@ I'm currently open for new job opportunities.
 
 ![Syrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=reverie-syr&show_icons=true&theme=tokyonight)
 <br />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reverie-syr&count_private=true&theme=radical" alt="Sirine's GitHub Streak Stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reverie-syr&count_private=true&theme=tokyonight" alt="Sirine's GitHub Streak Stats" />
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverie-syr&count_private=true&theme=radical" alt="most langugages used." />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverie-syr&count_private=true&theme=tokyonight" alt="most langugages used." />
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=reverie-syr&theme=tokyonight&border_radius=4.5) -->
