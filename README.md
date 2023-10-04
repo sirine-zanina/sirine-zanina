@@ -7,7 +7,6 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=sirine-zanina&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="syrine-zn" height=25px, width=150px/> 
 </p>
-<h2><b>Computer Science Student and a Web Development Enthusiast. </b></h2> 
 
 I'm a computer science student and an aspiring full-stack developer. I'm always open to learning new concepts and technologies that can be used to develop new solutions for our modern day problems.
 I'm currently open for new job opportunities.
