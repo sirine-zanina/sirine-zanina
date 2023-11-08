@@ -45,5 +45,4 @@ I'm currently open for new job opportunities.
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirine-zanina&count_private=true&theme=tokyonight" alt="most langugages used." />
 
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=reverie-syr&theme=tokyonight&border_radius=4.5) -->
+[GitHub Streak](https://streak-stats.demolab.com?user=sirine-zanina&theme=tokyonight&border_radius=4.5) 
