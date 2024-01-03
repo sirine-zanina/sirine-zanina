@@ -10,8 +10,9 @@
 <h3><b>About Me</b></h3>
 I'm a computer science student and an aspiring full-stack developer. I'm always open to learning new concepts and technologies that can be used to develop new solutions for our modern day problems.
 I'm currently open for new job opportunities.
+</br>
 
-REACH ME AT: sirinezanina@outlook.com
+<b>REACH ME AT</b>: sirinezanina@outlook.com
 
 ---
 
